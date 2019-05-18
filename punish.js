@@ -1,0 +1,1 @@
+Ifwornged(punish){everyone}

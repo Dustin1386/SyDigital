@@ -1,0 +1,111 @@
+.title {
+	font-family: sans-serif;
+	color: #2d3c49;
+	text-align: right;
+	margin-right: 230px;
+	margin-left: 8%;
+	margin-top: 20px;
+	margin-bottom: -10px;
+
+}
+
+.sub {
+	font-family: sans-serif;
+	color: #2d3c49;
+	text-align: right;
+	margin-right: 230px;
+	margin-left: 8%;
+	margin-top: 20px;
+	margin-bottom: -10px;
+
+}
+hr {
+	width: 65%;
+	border-width: 5px;
+	border-color: #7d97ad;
+	margin-right: 230px;
+
+
+}
+
+.logo {
+	position: absolute;
+  	top: 8px;
+  	left: 15px;
+  	font-size: 18px;
+  	margin-left: 255px;
+  	max-width: 100%;
+  	display:inline; 
+
+
+}
+
+.main {
+	  display: flex;
+  margin-left: 20%;
+  margin-right: auto;
+  max-width: 100%;
+  flex-wrap: wrap;
+  animation-name: bounce;
+
+
+
+}
+
+.work {
+	color: #7d97ad;
+    font-size: 2.75rem;
+	padding-top: 35px;
+	margin-left: 325px;
+}
+
+ h3 {
+    font-size: 1.75rem;
+    }
+
+    .row {
+   float: right;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4px;
+
+}
+
+.column {
+
+  width: 145px;
+  height: 365px;
+  box-sizing: border-box;
+  margin-right: 190px;
+  
+  
+
+
+}
+
+.column img {
+  vertical-align: middle;
+
+}
+
+.appify {
+	margin-left: 83px;
+	color: #2d3c49;
+	 
+}
+
+
+}
+
+img{
+	max-width: 100%;
+}
+
+.featured{
+	color: #7d97ad;
+	float:center;
+	margin-left: 20%;
+	margin-top: 5%;
+	font-family: sans-serif;
+	font-weight: 80px;
+}
