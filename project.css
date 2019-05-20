@@ -42,11 +42,9 @@ hr {
 
 .main {
 	  display: flex;
-  margin-left: 20%;
+  margin-left: auto;
   margin-right: auto;
   max-width: 100%;
-  flex-wrap: wrap;
-  animation-name: bounce;
 
 
 
@@ -88,18 +86,9 @@ hr {
 
 }
 
-.appify {
-	margin-left: 83px;
-	color: #2d3c49;
-	 
-}
 
 
-}
 
-img{
-	max-width: 100%;
-}
 
 .featured{
 	color: #7d97ad;
